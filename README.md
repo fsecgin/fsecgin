@@ -1,6 +1,6 @@
 # ░▒▓█ things i do █▓▒░
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fsecgin&theme=highcontrast" alt="streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=fsecgin&theme=violet-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=EB08A7)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00C6&width=435&lines=root%40sarjrehberi)](https://git.io/typing-svg)
 
